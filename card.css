@@ -46,7 +46,11 @@ figure img {
 .card p {
     color: #9fa3ad;
     text-align: center;
+    justify-content: flex-start;
 }
 
+xd {
+    display: flex;
+}
 
 
